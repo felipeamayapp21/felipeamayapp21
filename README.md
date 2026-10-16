@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-amaya-7b4a03325)
 [![Email](https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=black)](mailto:felipeamaya0612@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573173905848?text=Hola%20Felipe%2C%20vi%20tu%20perfil%20de%20GitHub)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/felipeamaya._._)
 [![Portafolio](https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=vercel&logoColor=F59E0B)](https://TU_PORTAFOLIO.vercel.app)
 ![UTS](https://img.shields.io/badge/UTS-Ingenier%C3%ADa%20de%20Sistemas-F59E0B?style=for-the-badge&labelColor=0D1117)
