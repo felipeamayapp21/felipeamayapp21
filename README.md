@@ -197,15 +197,6 @@ Uso asistentes y modelos de lenguaje para acelerar el desarrollo, **ejecuto LLM 
 - 🧾 Integración con servicios de facturación electrónica
 - 🧰 Flujos de trabajo con asistentes de IA y modelos locales
 
----
-
-## 📈 Gráfico de contribuciones
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=F59E0B&line=F59E0B&point=FFFFFF&area=true&area_color=F59E0B&hide_border=true" width="100%" />
-
-</div>
 
 ---
 
