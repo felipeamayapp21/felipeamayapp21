@@ -133,20 +133,6 @@ Uso asistentes y modelos de lenguaje para acelerar el desarrollo, **ejecuto LLM 
 
 ## 🚀 Proyectos destacados
 
-<div align="center">
-
-<a href="https://github.com/TU_USUARIO/TU_REPO_VETPETS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_VETPETS&theme=dark&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" />
-</a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_NOMINA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_NOMINA&theme=dark&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" />
-</a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_IPV4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_IPV4&theme=dark&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" />
-</a>
-
-</div>
-
 | Proyecto | Qué resuelve | Tecnologías |
 |---|---|---|
 | 🐾 **VetPets** | POS y gestión de clínica veterinaria, en expansión a ERP completo | _completa tu stack_ |
