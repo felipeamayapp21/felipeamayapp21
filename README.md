@@ -21,6 +21,16 @@
 
 ---
 
+<div align="center">
+
+[**Sobre mí**](#sobre-mi) · [**Stack**](#stack) · [**APIs**](#apis) · [**IA**](#ia) · [**Proyectos**](#proyectos) · [**Contacto**](#contacto)
+
+</div>
+
+---
+
+<a id="sobre-mi"></a>
+
 ## 👨‍💻 Sobre mí
 
 Soy estudiante de **6.º semestre de Ingeniería de Sistemas** en las **Unidades Tecnológicas de Santander (UTS)**, en Bucaramanga 🇨🇴, con formación técnica en **contabilidad**. Esa mezcla me permite construir software que entiende el negocio: nómina, inventarios, facturación y puntos de venta.
@@ -34,6 +44,8 @@ Soy estudiante de **6.º semestre de Ingeniería de Sistemas** en las **Unidades
 | 🗣️ **Idiomas** | Español (nativo) · Inglés B2 |
 
 ---
+
+<a id="stack"></a>
 
 ## 🛠️ Stack tecnológico
 
@@ -80,6 +92,8 @@ Soy estudiante de **6.º semestre de Ingeniería de Sistemas** en las **Unidades
 
 ---
 
+<a id="apis"></a>
+
 ## 🔌 Integración de APIs REST
 
 Comunico el **frontend con el backend** mediante peticiones `GET` y `POST` en JSON, y conecto el backend con **APIs externas** como las de facturación electrónica (tipo Factus).
@@ -98,6 +112,8 @@ flowchart LR
 
 ---
 
+<a id="ia"></a>
+
 ## 🤖 IA y herramientas de trabajo
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -111,6 +127,8 @@ flowchart LR
 Uso asistentes y modelos de lenguaje para acelerar el desarrollo, **ejecuto LLM en local con Ollama** y trabajo con modelos de **Hugging Face** para proyectos de IA. Documento y organizo mis ideas en **Obsidian**.
 
 ---
+
+<a id="proyectos"></a>
 
 ## 🚀 Proyectos destacados
 
@@ -151,11 +169,54 @@ Uso asistentes y modelos de lenguaje para acelerar el desarrollo, **ejecuto LLM 
 
 ---
 
+## ⚡ Qué puedo hacer por ti
+
+| | Servicio | Cómo lo hago |
+|---|---|---|
+| 🌐 | **Aplicaciones web full stack** | React o Vue con Vite en el frontend, Node/Express o Flask en el backend |
+| 🧾 | **Sistemas ERP y POS** | Inventario, ventas, clientes y reportes, con base de datos relacional |
+| 💰 | **Automatización contable y nómina** | Mi formación en contabilidad más Python para cálculos y reportes |
+| 🔌 | **Integración de APIs** | REST con GET/POST, autenticación JWT y servicios externos tipo Factus |
+| 🤖 | **IA aplicada** | Modelos de Hugging Face, LLM locales con Ollama y machine learning |
+| 🔐 | **Seguridad desde el diseño** | bcrypt, Helmet, CSP, CSRF, rate limiting y validación con Zod |
+| ☁️ | **Despliegue** | Docker, Linux, SSH, HTTPS, Vercel, AWS y Azure |
+
+---
+
+## 💬 Pregúntame sobre
+
+`Flask` · `API REST` · `JWT` · `PostgreSQL` · `Docker` · `React` · `Ollama` · `Hugging Face` · `Machine Learning` · `Redes y servidores` · `Obsidian` · `Contabilidad para software`
+
+---
+
+## 🌱 Siempre aprendiendo
+
+- ☁️ Arquitectura y despliegue en **AWS y Azure**
+- 🧠 Machine learning y ciencia de datos aplicados a negocio
+- 🧾 Integración con servicios de facturación electrónica
+- 🧰 Flujos de trabajo con asistentes de IA y modelos locales
+
+---
+
+## 📈 Gráfico de contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=F59E0B&line=F59E0B&point=FFFFFF&area=true&area_color=F59E0B&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<a id="contacto"></a>
+
 ## 🤝 Hablemos
 
 Busco oportunidades de **práctica o primer empleo como desarrollador** y proyectos donde pueda aportar en desarrollo web, automatización contable o IA aplicada.
 
 <div align="center">
+
+> _"Primero hazlo funcionar, luego hazlo bien, luego hazlo rápido."_ — Kent Beck
 
 ⭐ Si algo de lo que ves te sirve, déjame una estrella.
 
