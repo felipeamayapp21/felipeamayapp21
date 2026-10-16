@@ -153,20 +153,6 @@ Uso asistentes y modelos de lenguaje para acelerar el desarrollo, **ejecuto LLM 
 | 💰 **NominaApp** | Cálculo de nómina colombiana | Python · Flask |
 | 🌐 **Calculadora IPv4** | Subredes IPv4, de CLI a aplicación web desplegada | Python · Flask |
 
----
-
-## 📊 Actividad en GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&title_color=F59E0B&icon_color=F59E0B&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&title_color=F59E0B&text_color=E5E7EB&bg_color=0D1117&border_color=30363D" />
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=dark&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&background=0D1117&border=30363D" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-
-</div>
 
 ---
 
